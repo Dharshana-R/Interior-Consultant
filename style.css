@@ -195,7 +195,7 @@ footer p a {
     }
     
     .about{
-        right: 440px;
+        align-items: left;
         letter-spacing: 0;
     }
     
