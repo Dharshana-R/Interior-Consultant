@@ -257,7 +257,7 @@ footer p a {
     }
  
     .card-contaner {
-        width: 95%;
+        width: 85%;
         margin-top: -80px;
         margin-right: 1rem;
     }
@@ -265,6 +265,7 @@ footer p a {
     .about{
         margin-right: 80px;
         letter-spacing: 0;
+        padding-left: 410px;
     }
 
     footer {
