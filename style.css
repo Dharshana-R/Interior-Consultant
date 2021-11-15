@@ -195,7 +195,15 @@ footer p a {
     }
     
     .card-contaner .about{
-        padding-left: 10px;
+        padding-left: -10px;
+    }
+    
+    .itmes .desc {
+        font-size: 20px;
+    }
+    
+    .items h1{
+        font-size: 30px;
     }
 
 /* mobile menu */
