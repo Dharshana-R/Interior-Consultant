@@ -189,6 +189,10 @@ footer p a {
         padding: 1px;
     }
 
+    img{
+        width: 50px;
+        height: 80px;
+    }
 
 /* mobile menu */
     .mobile-nav {
