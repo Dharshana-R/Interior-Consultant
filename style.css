@@ -186,12 +186,16 @@ footer p a {
 
     .logo{
         margin: 0 0 0 0rem;
-        padding: 3px;
+        padding: 5px;
     }
 
     .items .frame{
         height: 290px;
         width: 320px;
+    }
+    
+    .card-contaner .about{
+        padding-left: 10px;
     }
 
 /* mobile menu */
