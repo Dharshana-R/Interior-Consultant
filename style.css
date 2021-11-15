@@ -190,8 +190,8 @@ footer p a {
     }
 
     .items .frame{
-        width: 20px;
-        height: 40px;
+        width: 100%;
+        height: 100%;
     }
 
 /* mobile menu */
