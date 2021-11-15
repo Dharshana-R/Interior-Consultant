@@ -189,9 +189,9 @@ footer p a {
         padding: 1px;
     }
 
-    img{
-        width: 50px;
-        height: 80px;
+    .items .frame{
+        width: 20px;
+        height: 40px;
     }
 
 /* mobile menu */
