@@ -186,12 +186,12 @@ footer p a {
 
     .logo{
         margin: 0 0 0 0rem;
-        padding: 1px;
+        padding: 3px;
     }
 
     .items .frame{
         height: 290px;
-        width: 340px;
+        width: 320px;
     }
 
 /* mobile menu */
