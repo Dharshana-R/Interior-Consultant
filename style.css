@@ -195,11 +195,11 @@ footer p a {
     }
     
     .card-contaner .about{
-        padding-left: -10px;
+        left: -10px;
     }
     
     .itmes .desc {
-        font-size: 20px;
+        font-size: 15px;
     }
     
     .items h1{
